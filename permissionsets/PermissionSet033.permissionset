@@ -3,4 +3,12 @@
     <description>desc033</description>
     <hasActivationRequired>false</hasActivationRequired>
     <label>PermissionSet033</label>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ApiEnabled</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ContentWorkspaces</name>
+    </userPermissions>
 </PermissionSet>
