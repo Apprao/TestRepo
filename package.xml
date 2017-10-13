@@ -5,4 +5,16 @@
         <members>Obj33__c</members>
         <name>CustomObject</name>
     </types>
+    <types>
+        <members>MyPermissionSet</members>
+        <members>NewPermissionSet</members>
+        <members>NewPermissionSet432</members>
+        <members>NewPermissionSetSEP15</members>
+        <members>NewPermissionSetSEP15T</members>
+        <members>PermissionSet003</members>
+        <members>PermissionSet007</members>
+        <members>PermissionSet033</members>
+        <members>TestPermissionSet99</members>
+        <name>PermissionSet</name>
+    </types>
 </Package>
