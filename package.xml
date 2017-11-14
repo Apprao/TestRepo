@@ -17,4 +17,8 @@
         <members>TestPermissionSet99</members>
         <name>PermissionSet</name>
     </types>
+    <types>
+        <members>Candidate__c.CandidateRule%27s</members>
+        <name>WorkflowRule</name>
+    </types>
 </Package>
