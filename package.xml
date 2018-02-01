@@ -10,6 +10,10 @@
         <name>CustomLabel</name>
     </types>
     <types>
+        <members>CustomLabels</members>
+        <name>CustomLabels</name>
+    </types>
+    <types>
         <members>Candidate__c</members>
         <members>Obj33__c</members>
         <name>CustomObject</name>
