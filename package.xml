@@ -6,6 +6,10 @@
         <name>ApexPage</name>
     </types>
     <types>
+        <members>TestCustomLabel123</members>
+        <name>CustomLabel</name>
+    </types>
+    <types>
         <members>Candidate__c</members>
         <members>Obj33__c</members>
         <name>CustomObject</name>
