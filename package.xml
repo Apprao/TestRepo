@@ -17,6 +17,7 @@
         <name>Flow</name>
     </types>
     <types>
+        <members>Candidate__c-TestWithSpecial Charã</members>
         <members>TestObj22__c-TestObj22 Layout</members>
         <name>Layout</name>
     </types>
