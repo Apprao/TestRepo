@@ -26,6 +26,7 @@
         <members>Candidate__c</members>
         <members>Obj33__c</members>
         <members>Obj34__c</members>
+        <members>Test112__c</members>
         <members>TestObj11__c</members>
         <members>TestObj22__c</members>
         <name>CustomObject</name>
