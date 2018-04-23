@@ -28,6 +28,7 @@
         <members>Obj34__c</members>
         <members>Test112__c</members>
         <members>TestAbc1__c</members>
+        <members>TestAbc2__c</members>
         <members>TestObj11__c</members>
         <members>TestObj22__c</members>
         <name>CustomObject</name>
