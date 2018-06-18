@@ -2,6 +2,11 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>41.0</version>
     <types>
+        <members>AppSwitcher</members>
+        <members>Salesforce1</members>
+        <name>AppMenu</name>
+    </types>
+    <types>
         <members>Candidate__c.Address__c</members>
         <members>Candidate__c.Comments2__c</members>
         <members>Candidate__c.Comments__c</members>
