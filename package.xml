@@ -64,6 +64,7 @@
         <name>PermissionSet</name>
     </types>
     <types>
+        <members>Admin</members>
         <members>TestProfile432</members>
         <name>Profile</name>
     </types>
